@@ -169,7 +169,7 @@
       strings: typed_strings,
       loop: true,
       typeSpeed: 50,
-      backSpeed: 15,
+      backSpeed: 45,
       backDelay: 2000
     });
   }
