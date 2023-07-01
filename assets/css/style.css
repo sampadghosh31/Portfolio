@@ -234,7 +234,7 @@ a:hover {
 .socials .ico-circle:hover {
   background-color: #0078ff;
   color: #fff;
-  box-shadow: 0 0 0 3px #cde1f8;
+  box-shadow: 0 0 0 3px blue;
   transition: all 500ms ease;
 }
 
@@ -765,7 +765,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: .7;
+  opacity: .6;
 }
 
 .hero .hero-title {
